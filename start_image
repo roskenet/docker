@@ -1,0 +1,2 @@
+docker run -v /tmp/.X11-unix:/tmp/.X11-unix -v /home/froske/Workspaces/Development:/home/developer/Workspaces --name development -ti roskenet/development:0.0.5 "/bin/bash"
+
